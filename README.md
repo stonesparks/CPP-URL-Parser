@@ -26,6 +26,6 @@ Below is a sample output file:
 // Please note this code is several years old, I only just recovered it recently and wanted to store it somewhere permanently. That being said, there may be some obvious places that need to be refactored as I've learned a good bit more since coding this up.
 
 * The last entry prints out twice in the output file
-* Currently Google and Bing seems to parse mostly correctly, but as for now DuckDuckGo misses the query in the entry title section (this was not always true, so maybe the DuckDuckGo Url structure has changed at some point, not sure)
+* DuckDuckGo query entries are blank in the title section (this was not always true, so maybe the DuckDuckGo Url structure has changed at some point, not sure)
 
   
